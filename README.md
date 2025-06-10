@@ -1,6 +1,6 @@
-# JupiVerse-Hackathon 
+### JupiVerse-Hackathon 
 JupiVerse Hackathon Reference Docs
-Offical Docs: https://station.jup.ag/docs
+Offical Docs: https://station.jup.ag/docs<br/>
 API Reference: https://dev.jup.ag/docs/api
 Terminal Docs: https://station.jup.ag/docs/old/jupiter-terminal/jupiter-terminal
 Jupiter Python Github: https://github.com/0xTaoDev/jupiter-python-sdk
